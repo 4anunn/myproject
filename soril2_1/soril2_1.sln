@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "soril2_1", "soril2_1\soril2_1.csproj", "{AD63294F-75BE-49C5-93DB-4A5E0FD8E89C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD63294F-75BE-49C5-93DB-4A5E0FD8E89C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD63294F-75BE-49C5-93DB-4A5E0FD8E89C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD63294F-75BE-49C5-93DB-4A5E0FD8E89C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD63294F-75BE-49C5-93DB-4A5E0FD8E89C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65A09B2A-8FC4-48EF-8F50-9C0C635B0923}
+	EndGlobalSection
+EndGlobal
